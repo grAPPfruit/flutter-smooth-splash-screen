@@ -1,16 +1,12 @@
 # smooth_splash
+  
+Let's be honest, who has a lot of time these days? Waiting for something to happen is not fun. So we always want everything instantly or as we developers put it: synchronous.  
+  
+But what do you do if you have someone that you need to wait for before you can start doing something? A so called asynchronous dependency.  
+  
+I can't remember the last time I wrote an app that didn't have some form of asynchronous dependency when it launched. This is what the splash screen is used for.
 
-A new Flutter application.
+And this is why I've created this Repository.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Also, there is a [Medium](https://medium.com/@roland.wimmer/flutter-splash-screen-a-simple-way-to-handle-async-dependencies-7a9f559eb280) article that goes along side with it.
+You should check it out.
